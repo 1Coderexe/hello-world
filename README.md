@@ -1,2 +1,6 @@
 # hello-world
-Just Another Repository
+
+Hello Humans
+
+I like coding in Python and am learning C++ and C#.
+This is a test Repository btw!
